@@ -1,2 +1,6 @@
+remix-version
+REMIX: Rock the code, make it louder!Lyrics: Rock the code, all night long!
+
 Lyrics: Rock the code, all night long!
 Remix: Code harder, rock louder!
+main
